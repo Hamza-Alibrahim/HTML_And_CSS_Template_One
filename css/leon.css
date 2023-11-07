@@ -23,10 +23,10 @@ body {
 }
 
 .container {
-    padding-left: 80px;
+    padding-left: 15px;
     padding-right: 15px;
-    margin-top: auto;
-    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
     width: 100%;
 }
 
